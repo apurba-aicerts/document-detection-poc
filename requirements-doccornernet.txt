@@ -1,0 +1,4 @@
+-r requirements.txt
+numpy>=2.0,<2.3
+tensorflow>=2.20,<2.21
+pillow>=11.0,<13.0

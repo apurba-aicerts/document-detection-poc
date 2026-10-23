@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+outputs/
+.venv-doccornernet/
+models/
+tests/
